@@ -1,7 +1,7 @@
-@ST_97 @Feature_organisationChart
+@ST_399 @Feature_organisationChart
 Feature: Organisation tree
 
-@SC_371 @High @dragAndDrop @dragAndDrop_001
+@SC_586 @High @dragAndDrop @dragAndDrop_001
 Scenario Outline: Drag And Drop Customer chartitem between branches
 #    And I restore structure of "<organisation>" organisation
 Given I`m on Organisation Chart page
@@ -27,7 +27,7 @@ Examples:
 |Chapman Freeborn Group of Companies|Asia|Middle East|UAE|Dubai|DXB|Africa|Africa|KENYA|Nairobi|NBO|Chapman Freeborn Torino|
 
 
-@SC_372 @High @dragAndDrop @dragAndDrop_002
+@SC_587 @High @dragAndDrop @dragAndDrop_002
 Scenario Outline: Drag And Drop Airport chartitem between branches
 Given I`m on Organisation Chart page
 And I select "<organisation>" from Select Organistion DropDown
