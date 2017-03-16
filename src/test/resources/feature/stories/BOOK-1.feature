@@ -1,7 +1,7 @@
-@ST_22 @book
+@ST_71 @book
 Feature: BOOK-1
 
-@SC_51 @book
+@SC_450 @book
 Scenario: Get book
 Given book
 And book

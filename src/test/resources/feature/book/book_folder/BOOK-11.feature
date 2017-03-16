@@ -1,2 +1,2 @@
-@ST_20
+@ST_69
 Feature: BOOK-11

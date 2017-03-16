@@ -1,2 +1,2 @@
-@ST_15 @bla
+@ST_64 @bla
 Feature: bla

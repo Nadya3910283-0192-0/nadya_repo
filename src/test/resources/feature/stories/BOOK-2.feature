@@ -1,7 +1,7 @@
-@ST_23 @book
+@ST_72 @book
 Feature: BOOK-2
 
-@SC_52 @book
+@SC_451 @book
 Scenario: Find book
 Given book
 And book
